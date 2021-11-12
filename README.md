@@ -16,4 +16,5 @@ This tool will help hackers,programmers,linux users,cyber security students..
 you can use this tool easily
 
 # Stop Wishing,Start Doing
-This is simple tool,i programmed it at 12 Nov 2021,i will not delete this respository,
+I programmed this simple tool when i was 15 years old,I will not delete this respository
+I am Mahdi,a 15-years-old cyber security student,with a computer[2 gb ram and dead battery] and i was able to learn and to program this "simple" tool,you also can learn and work,to become the person you want,Even if you are a poor person and no matter how old are you,just NEVER GIVE UP!
