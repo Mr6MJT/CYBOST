@@ -9,7 +9,7 @@ Cyber Ghost tool
 bash setup.sh
 
 # for whom this tool?
-This tool will help hackers,programmers,linux users,cyber security students..
+This tool will help basic social engineers and cs students
 
 # it's easy to use
 you can use this tool easily
