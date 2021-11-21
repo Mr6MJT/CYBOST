@@ -156,7 +156,8 @@ then
       cd ..
 elif [ $m == "h4cker" ]
 then
-	locate /
+	cd bin && chmod +x locc.cpp && ./locc.cpp
+	cd ..
 elif [ $m == "cl" ]
 then
 	clear
