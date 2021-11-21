@@ -130,15 +130,15 @@ printf "$WHITE ─[$USER]─[$PWD]$RED ─╼>$ "
 read m
 if [ $m == "encrypt" ]
 then
-      cd bin && ./enc.cpp
+      cd bin && chmod +x enc.cpp && ./enc.cpp
       cd ..
 elif [ $m == "decrypt" ]
 then
-      cd bin && ./dec.cpp
+      cd bin && chmod +x dec.cpp && ./dec.cpp
       cd ..
 elif [ $m == "calc" ]
 then
-      cd bin && ./calc.cpp
+      cd bin && chmod +x calc.cpp && ./calc.cpp
       cd ..
 elif [ $m == "virus" ]
 then
@@ -151,7 +151,7 @@ then
       cd ..
 elif [ $m == "DtoB" ]
 then
-      cd bin
+      cd bin && chmod +x DtoB.cpp
       ./DtoB.cpp
       cd ..
 elif [ $m == "h4cker" ]
@@ -163,7 +163,7 @@ then
 	exec bash $0
 elif [ $m == "chat" ]
 then
-        cd bin && ./chr.cpp
+        cd bin && chmod +x chr.cpp && ./chr.cpp
 	cd ..
 elif [ $m == "encrpy" ]
 then
@@ -200,10 +200,10 @@ then
         printf "$WHITE ─[$USER]─[CYBOST]$RED ─╼>$ "
 	read cyb
 	strip --strip-all $cyb
-elif [ $m == "music" ]
-then
-	cd data && ./music.cpp
-	cd ..
+#elif [ $m == "music" ]
+#then
+#	cd data && ./music.cpp
+#	cd ..
 elif [ $m == "mjtio" ]
 then
  	cd data && cat mjtio.asm
