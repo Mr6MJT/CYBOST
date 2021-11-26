@@ -118,11 +118,9 @@ printf "\n"
 sleep 4.2
 printf "$WHITE Installing The requirment,please wait..\n"
 sleep 0.5
-sudo su
-sleep 5
-apt-get install nasm > /dev/null 2>&1
-apt-get install sox > /dev/null 2>&1
-apt-get install sox libsox-fmt-all > /dev/null 2>&1
+sudo apt-get install nasm > /dev/null 2>&1
+sudo apt-get install sox > /dev/null 2>&1
+sudo apt-get install sox libsox-fmt-all > /dev/null 2>&1
 clear
 printf "$RED Press enter to continue\n"
 read enter
