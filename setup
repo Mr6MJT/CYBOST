@@ -127,4 +127,4 @@ printf "$RED Press enter to continue\n"
 read enter
 clear
 mv d start
-rm setup.sh && bash start
+rm setup && bash start
