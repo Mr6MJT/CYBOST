@@ -126,5 +126,5 @@ clear
 printf "$RED Press enter to continue\n"
 read enter
 clear
-mv d start.sh
+mv d.sh start.sh
 rm setup && bash start.sh
