@@ -149,7 +149,6 @@ then
 	cd ..
 elif [ $m == "cl" ]
 then
-        pl
 	clear
 	exec bash $0
 elif [ $m == "chat" ]
