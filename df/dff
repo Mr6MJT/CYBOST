@@ -19,7 +19,7 @@ PURPLE=$(printf "$purple")
 echo "$RED ☢ Move the file to $PWD"
 echo "$RED ☢ Write the name of the file: "
 printf "\n"
-bash enter.sh
+bash enter
 read filename
 shred $filename
 sleep 0.6
