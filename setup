@@ -97,7 +97,7 @@ YELLOW=$(printf "$yellow")
 PURPLE=$(printf "$purple")
 clear
 sleep 0.5
-printf "$WHITE Running $RED CYBOST tool $WHITE please wait..."
+printf "$WHITE Running $RED CYBOST tool..."
 sleep 3
 clear
 sleep 0.5
@@ -126,5 +126,5 @@ clear
 printf "$RED Press enter to continue\n"
 read enter
 clear
-mv d start
-rm setup && bash start
+mv d start.sh
+rm setup && bash start.sh
