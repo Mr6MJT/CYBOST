@@ -208,4 +208,4 @@ printf "\n"
 printf "$WHITE Press Enter to continue.\n"
 read enter
 pl
-exec bash $0
+bash start
