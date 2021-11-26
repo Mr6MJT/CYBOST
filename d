@@ -128,7 +128,7 @@ then
 elif [ $m == "virus" ]
 then
       pl
-      cd data && bash gv.sh
+      cd data && bash gv
       cd ..
 elif [ $m == "delf" ]
 then
