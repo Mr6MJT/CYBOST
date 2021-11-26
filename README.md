@@ -6,7 +6,7 @@ Cyber Ghost tool
 
 
 # How to use the tool:
-bash setup
+bash setup.sh
 
 # for whom this tool?
 This tool will help basic social engineers,linux users,cyber security students
