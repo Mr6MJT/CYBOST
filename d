@@ -134,7 +134,7 @@ elif [ $m == "delf" ]
 then
       pl
       cd df
-      bash df.sh
+      bash dff
       cd ..
 elif [ $m == "DtoB" ]
 then
