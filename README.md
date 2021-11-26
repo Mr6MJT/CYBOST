@@ -1,5 +1,5 @@
-# CYBOST tool
-Cyber Ghost tool
+# CYBOST Tool
+Cyber Ghost Tool
 
 # This tool is under development
  I developed this tool at 12 Nov 2021,I was 15 years old
