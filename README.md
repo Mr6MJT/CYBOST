@@ -34,7 +34,7 @@ This tool will help basic social engineers,linux users,cyber security students
 
 -echo server.
 
--chat with your friends online [soon].
+-chat with your friends online.
 
 -generate malware [soon].
 
