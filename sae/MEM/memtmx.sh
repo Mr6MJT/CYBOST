@@ -11,7 +11,7 @@ int main()
     }
 }'
 
-apt upgrade && apt update && pkg install clang
+apt upgrade && apt update && pkg install clang 
 touch hello.c
 echo "$src" > hello.c
 gcc hello.c -o hello
