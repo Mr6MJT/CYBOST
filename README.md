@@ -57,9 +57,6 @@ $-ddos attack [soon].
 # it's easy to use
 you can use this tool easily
 
-# Stop Wishing,Start Doing
-I am Mahdi,a 15-years-old cyber security student,with a computer[2 gb ram and dead battery] and i was able to learn and to program this "simple" tool,you also can learn and work,to become the person you want,No matter how old are you,just NEVER GIVE UP!
-
 
 # screenshots:
 <img src="cyb.png">
