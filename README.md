@@ -1,6 +1,6 @@
 
 # This tool is under development
- I developed this tool at 12 Nov 2021,I was 15 years old!
+ I developed this tool at 12 Nov 2021.
  
  This toolkit coded by Mr MJT [Mahdi] only..
 
