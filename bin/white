@@ -1,0 +1,3 @@
+white="\033[0;97m"
+WHITE=$(printf "$white")
+printf "$WHITE"
