@@ -59,4 +59,14 @@ you can use this tool easily
 
 
 # screenshots:
-<img src="cyb.png">
+<img src="cybost1.png">
+
+# encrypting text:
+<img src="cybost2.png">
+
+# creating chat room:
+<img src="cybost3.png">
+
+<img src="cybost5.png">
+<img src="cybost6.png">
+
