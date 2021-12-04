@@ -1,3 +1,4 @@
+// Coded by Mr MJT
 #include <iostream>
 #include <cstdlib>
 #include <string.h>
