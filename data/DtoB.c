@@ -1,3 +1,6 @@
+
+// Coded by Mr MJT
+
 #include <stdio.h>
 #include <stdlib.h>
 
