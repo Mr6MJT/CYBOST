@@ -50,7 +50,7 @@ $-chat with your friends online.
 
 $-generate malware [soon].
 
-$-check open ports [soon].
+$-check open ports.
 
 $-ddos attack [soon].
 
