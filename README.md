@@ -67,8 +67,3 @@ you can use this tool easily
 # creating chat room:
 <img src="cybost3.png">
 
-<img src="cybost5.png">
-# SEND = Enter text to send it.
-# RECV = Recieved text.
-<img src="cybost6.png">
-
