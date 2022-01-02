@@ -79,8 +79,8 @@ YELLOW=$(printf "$yellow")
 PURPLE=$(printf "$purple")
 
 
-printf "$RED ☢ encrypt:     $WHITE Encrypt a text.\n"
-printf "$RED ☢ decrypt:     $WHITE Decrypt a text.\n"
+printf "$RED ☢ encrypt:     $WHITE Encrypt a text using cipher algorithm.\n"
+printf "$RED ☢ decrypt:     $WHITE Decrypt the text.\n"
 printf "$RED ☢ encrpy:      $WHITE Encrypt any python file.\n"
 printf "$RED ☢ calc:        $WHITE Calculator.\n"
 printf "$RED ☢ virus:       $WHITE Build virus.\n"
