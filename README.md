@@ -28,9 +28,9 @@ This tool will help basic social engineers,linux users,cyber security students
 
 $-build virus.
 
-$-ecnrypt text.
+$-ecnrypt text using cipher algorithm.
 
-$-decrypt text.
+$-decrypt the text.
 
 $-ecrypt python file.
 
