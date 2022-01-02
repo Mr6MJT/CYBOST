@@ -48,8 +48,6 @@ $-echo server.
 
 $-chat with your friends online.
 
-$-generate malware [soon].
-
 $-check open ports.
 
 $-ddos attack [soon].
