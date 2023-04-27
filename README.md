@@ -1,13 +1,13 @@
 
  I developed this tool at 12 Nov 2021.
  
- This toolkit coded by Mr MJT [Mahdi] only..
+ This toolkit coded by Mr MJT [Mahdi Jaber] only..
 
 
 # How to use the tool:
 clone this software to your linux by typing:
 
-git clone https://github.com/Mr6MJT/CYBOST
+<pre> git clone https://github.com/Mr6MJT/CYBOST </pre>
 
 then
 
