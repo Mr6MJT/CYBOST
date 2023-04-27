@@ -7,52 +7,50 @@
 # How to use the tool:
 clone this software to your linux by typing:
 
-<pre> git clone https://github.com/Mr6MJT/CYBOST </pre>
+<pre> $~ git clone https://github.com/Mr6MJT/CYBOST </pre>
 
 then
 
-cd CYBOST
+<pre> $~ cd CYBOST </pre>
 
-bash setup
-# this software not for termux users. 
+<pre> $~ bash setup </pre>
 
 
 # for whom this tool?
-This tool will help basic social engineers,linux users,cyber security students
+This tool will help basic Social Engineers, Linux Users, Cyber Security Students and every person who wannabe Ethical Hacker.
 
 
 
 
 # What you can do by this tool?
 
-$-build virus.
+<pre> $~ build virus. </pre>
 
-$-ecnrypt text using cipher algorithm.
+<pre> $~ ecnrypt text using cipher algorithm. </pre>
 
-$-decrypt the text.
+<pre> $~ decrypt the text.</pre>
 
-$-ecrypt python file.
+<pre> $~ ecrypt python file.</pre>
 
-$-Overwrite a file to hide its contents, and optionally delete it.
+<pre> $~ Overwrite a file to hide its contents, and optionally delete it.</pre>
 
-$-strip a binary file.
+<pre> $~ strip a binary file.</pre>
 
-$-.asm -> .o
+<pre> $~ .asm -> .o</pre>
 
-$-.o -> binary executable file.
+<pre> $~ .o -> binary executable file.</pre>
 
-$-dissassemble a file.
+<pre> $~ dissassemble a file.</pre>
 
-$-echo server.
+<pre> $~ echo server.</pre>
 
-$-chat with your friends online.
+<pre> $~ chat with your friends online.</pre>
 
-$-check open ports.
+<pre> $~ check open ports.</pre>
 
-$-ddos attack [soon].
 
 # it's easy to use
-you can use this tool easily
+you can use this tool easily.
 
 
 # screenshots:
