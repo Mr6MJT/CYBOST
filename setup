@@ -106,13 +106,12 @@ printf "$WHITE Welcome $RED Mr $USER !\n"
 printf "\n"
 sleep 0.9
 printf "$WHITE Cyber Ghost Tool$RED (CYBOST)\n"
-printf "$WHITE This tool is under development!\n"
 printf "\n"
-printf "$WHITE [+] follow me please:\n"
+printf "$WHITE [+] Follow me please:\n"
 printf "$WHITE [-] Github: $RED     https://github.com/Mr6MJT\n"
-printf "$WHITE [-] Telegram: $RED   t.me/CyberGhost9\n"
+printf "$WHITE [-] Instagram: $RED   t.me/CyberGh\n"
 printf "\n"
-printf "$WHITE [!] I developed this tool at 12 Nov 2021,I was 15 years old ^_~"
+printf "$WHITE [!] Mahdi's message: I developed this tool at 12 Nov 2021, I was 15 years old :)"
 printf "\n"
 printf "\n"
 sleep 4.2
@@ -128,5 +127,5 @@ printf "$RED Press enter to continue\n"
 read enter
 clear
 mv d start
-rm cybost1.png && rm cybost2.png && rm cybost3.png && rm cybost5.png && rm cybost6.png
+rm cybost1.png && rm cybost2.png && rm cybost3.png && rm cybost6.png
 rm setup && bash start
