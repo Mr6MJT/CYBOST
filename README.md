@@ -24,29 +24,29 @@ This tool will help basic Social Engineers, Linux Users, Cyber Security Students
 
 # What you can do by this tool?
 
-<pre> $~ build virus. </pre>
+<pre> $~ Build virus. </pre>
 
-<pre> $~ ecnrypt text using cipher algorithm. </pre>
+<pre> $~ Encrypt text using cipher algorithm. </pre>
 
-<pre> $~ decrypt the text.</pre>
+<pre> $~ Decrypt the text.</pre>
 
-<pre> $~ ecrypt python file.</pre>
+<pre> $~ Encrypt python file.</pre>
 
 <pre> $~ Overwrite a file to hide its contents, and optionally delete it.</pre>
 
-<pre> $~ strip a binary file.</pre>
+<pre> $~ Strip a binary file.</pre>
 
-<pre> $~ .asm -> .o</pre>
+<pre> $~ Compile .asm file -> .o</pre>
 
-<pre> $~ .o -> binary executable file.</pre>
+<pre> $~ Compile .o file -> binary executable file.</pre>
 
-<pre> $~ dissassemble a file.</pre>
+<pre> $~ Dissassemble a file.</pre>
 
-<pre> $~ echo server.</pre>
+<pre> $~ Echo server.</pre>
 
-<pre> $~ chat with your friends online.</pre>
+<pre> $~ Chat with your friends online.</pre>
 
-<pre> $~ check open ports.</pre>
+<pre> $~ Check open ports.</pre>
 
 
 # it's easy to use
