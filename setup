@@ -127,5 +127,5 @@ printf "$RED Press enter to continue\n"
 read enter
 clear
 mv d start
-rm cybost1.png && rm cybost2.png && rm cybost3.png && rm cybost6.png
+rm cybost1.png && rm cybost2.png && rm cybost3.png && rm cybost4.png
 rm setup && bash start
