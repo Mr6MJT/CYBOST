@@ -78,7 +78,7 @@ GREEN=$(printf "$green")
 YELLOW=$(printf "$yellow")
 PURPLE=$(printf "$purple")
 
-
+# Coded By Mahdi Jaber
 printf "$RED ☢ encrypt:     $WHITE Encrypt a text using cipher algorithm.\n"
 printf "$RED ☢ decrypt:     $WHITE Decrypt the text.\n"
 printf "$RED ☢ encrpy:      $WHITE Encrypt any python file.\n"
