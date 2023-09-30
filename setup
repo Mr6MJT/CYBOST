@@ -6,7 +6,7 @@ blue="\033[0;94m"         # Blue
 purple="\033[0;95m"       # Purple
 cyan="\033[0;36m"         # Cyan
 white="\033[0;97m"        # White
-
+# test
 # Blinking
 
 blblack="\033[5;30m"        # Black
